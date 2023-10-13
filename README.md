@@ -1,25 +1,25 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/erkutkoral/UndergraduateThesisJourney">
-    <img src="![image](https://github.com/erkutkoral/Titanic/assets/107303322/66604e8a-7fc7-4352-ae28-407be8c3c1e3)" alt="Logo" width="400" height="400">
+  <a href="https://github.com/erkutkoral/Titanic">
+    <img src="https://www.rmg.co.uk/sites/default/files/styles/large/public/Atlantic%20liner%20%27Titanic%27%20%28Br%2C%201912%29%20sinking%2C%20bow%20first%2C%201912%2C%20with%20eight%20full%20lifeboats%20nearby%20and%20an%20iceberg%20in%20the%20distance_banner.jpg?itok=yNsuSDzG" alt="Logo" width="400" height="400">
   </a>
 
-  <h3 align="center">Welcome to my Undergraduate Thesis Journey</h3>
+  <h3 align="center">Titanic Survial Prediction</h3>
 
   <p align="center">
     In my senior year at the Industrial Engineering department, I wanted to change my career to a completely different path based on the courses that I was interested in my undergraduate thesis. This is my journey to starting this field and learning Python, SQL environments.
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/UndergraduateThesisJourney"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/erkutkoral/Titanic"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/UndergraduateThesisJourney/issues">Report Bug</a>
+    <a href="https://github.com/erkutkoral/Titanic/issues">Report Bug</a>
     .
-    <a href="https://github.com/erkutkoral/UndergraduateThesisJourney/issues">Request Feature</a>
+    <a href="https://github.com/erkutkoral/Titanic/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/erkutkoral/UndergraduateThesisJourney?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/UndergraduateThesisJourney) 
+![Contributors](https://img.shields.io/github/contributors/erkutkoral/Titanic?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/TitanicJourney) 
 
 ## Table Of Contents
 

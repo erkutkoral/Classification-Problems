@@ -7,8 +7,7 @@
   <h3 align="center">Titanic Survial Prediction</h3>
 
   <p align="center">
-    Performed EDA, Data Preprocessing, Machine Learning, Model Evaluation and Validation steps in Kaggle's Titanic Data Set.
-    - Let's get started.
+    Performed EDA, Data Preprocessing, Machine Learning, Model Evaluation and Validation steps in Kaggle's Titanic Dataset.Let's get started.
     <br/>
     <br/>
     <a href="https://github.com/erkutkoral/Titanic"><strong>Explore the docs »</strong></a>

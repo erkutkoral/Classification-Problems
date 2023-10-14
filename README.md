@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/erkutkoral/Titanic">
+  <a href="https://github.com/erkutkoral/Titanic_Classification">
     <img src="https://www.rmg.co.uk/sites/default/files/styles/large/public/Atlantic%20liner%20%27Titanic%27%20%28Br%2C%201912%29%20sinking%2C%20bow%20first%2C%201912%2C%20with%20eight%20full%20lifeboats%20nearby%20and%20an%20iceberg%20in%20the%20distance_banner.jpg?itok=yNsuSDzG" alt="Logo" width="600" height="400">
   </a>
 
@@ -10,16 +10,16 @@
     Performed EDA, Data Preprocessing, Machine Learning, Model Evaluation and Validation steps in Kaggle's Titanic Dataset.Let's get started.
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/Titanic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/erkutkoral/Titanic_Classification"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/erkutkoral/Titanic/issues">Report Bug</a>
+    <a href="https://github.com/erkutkoral/Titanic_Classification/issues">Report Bug</a>
     .
-    <a href="https://github.com/erkutkoral/Titanic/issues">Request Feature</a>
+    <a href="https://github.com/erkutkoral/Titanic_Classification/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/erkutkoral/Titanic?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/Titanic) 
+![Contributors](https://img.shields.io/github/contributors/erkutkoral/Titanic_Classification?color=dark-green) ![Issues](https://img.shields.io/github/issues/erkutkoral/Titanic_Classification) 
 
 ## Table Of Contents
 
